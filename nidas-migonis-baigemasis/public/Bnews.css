@@ -1,0 +1,304 @@
+body {
+    background-image: url(/images/cogs-and-gear-wheel-mechanisms-hi-tech-digital-technology-and-engineering-abstract-technical-background-geometric-blue-gear-wheels-and-dots-gears-futuristic-mechanism-industrial-concept-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    overflow: hidden;
+  }
+  
+  @media (max-width: 600px) {
+    body {      
+    background: url('/images/cog\ phon.jpg');
+    background-repeat: no-repeat;
+    background-color: #000;
+    background-size: auto;
+    background-size: 700px;
+    background-position-x: center;
+    }
+  }
+
+  .card {
+    background-color: #96969671;
+    margin: auto;
+    width: 75%;
+  }
+  
+  .cardcontainer {
+    height: 700px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: aliceblue;
+    margin-top: 55px;
+  }
+
+  .Search{
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+  }
+
+  /*NAV*/
+.container {
+  width: 20%;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  position: fixed;
+}
+
+#toggle {
+  -webkit-appearance: none;
+}
+
+.button {
+  margin-top: 50px;
+  position: absolute;
+  z-index: 999;
+  width: 70px;
+  height: 65px;
+  background: #222;
+  border-radius: 15px;
+  cursor: pointer;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 0 24px;
+  overflow: hidden;
+  transition: width 300ms linear;
+}
+
+.button:before {
+  z-index: 1;
+  position: absolute;
+  content: "";
+  width: 20px;
+  height: 2px;
+  background: #ef0;
+  transform: rotate(225deg);
+  transition: all 0.4s ease;
+}
+
+.button:after {
+  z-index: 1;
+  position: absolute;
+  content: "";
+  width: 20px;
+  height: 2px;
+  background: #ef0;
+  transform: rotate(135deg);
+  transition: all 0.4s ease;
+}
+.nav {
+  opacity: 1;
+  transition: all 0.5s ease-in-out;
+  background: #222;
+  width: 100%;
+  border-radius: 5px;
+  transform: translateX(10%);
+  padding: 10px;
+}
+
+.nav ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav li {
+  opacity: 0;
+  list-style: none;
+}
+
+.nav li:nth-child(1) {
+  transform-origin: bottom;
+  animation: itop 300ms 300ms linear forwards;
+}
+
+.nav li:nth-child(2) {
+  transform-origin: bottom;
+  animation: itop 300ms 400ms linear forwards;
+}
+
+.nav li:nth-child(3) {
+  transform-origin: bottom;
+  animation: itop 300ms 500ms linear forwards;
+}
+
+.nav li:nth-child(4) {
+  transform-origin: bottom;
+  animation: itop 300ms 600ms linear forwards;
+}
+
+.nav a {
+  transition: all 0.5s linear;
+  text-decoration: none;
+  color: #ef0;
+  font-size: 20px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 100px 0 0;
+  border-radius: 15px;
+}
+
+#toggle:checked~label .nav {
+  display: none;
+  opacity: 0;
+  transform: translateX(0);
+}
+
+#toggle:checked~.button:before {
+  transform: rotate(90deg);
+}
+
+#toggle:checked~.button:after {
+  transform: rotate(0deg);
+}
+
+#toggle:checked~.button {
+  width: 70px;
+  transition: all 0.1s linear;
+}
+
+@media (max-width: 640px) {
+  .container {
+    width: 100%;
+  }
+}
+
+@keyframes itop {
+  0% {
+    opacity: 0;
+    transform: translateY(60px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+  /*Feet*/
+  .footer {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    height: auto;
+    background-color: #070617;
+  }
+  
+  .footer .col {
+    width: 190px;
+    height: 100px;
+    float: left;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0px 20px 20px 20px;
+  }
+  
+  .footer .col h1 {
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+    font-size: 12px;
+    line-height: 17px;
+    padding: 20px 0px 5px 0px;
+    color: rgba(255, 255, 255, 0.2);
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.250em;
+  }
+  
+  .footer .col ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer .col ul li {
+    color: #999999;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: bold;
+    padding: 5px 0px 5px 0px;
+    cursor: pointer;
+    transition: .2s;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+  }
+  
+  .social ul li {
+    display: inline-block;
+    padding-right: 5px !important;
+  }
+  
+  .footer .col ul li:hover {
+    color: #ffffff;
+    transition: .1s;
+    -webkit-transition: .1s;
+    -moz-transition: .1s;
+  }
+  
+  .clearfix {
+    clear: both;
+  }
+  
+  @media only screen and (min-width: 1280px) {
+    .contain {
+      width: 1200px;
+      margin: 0 auto;
+    }
+  }
+  
+  @media only screen and (max-width: 1139px) {
+    .contain .social {
+      width: 1000px;
+      display: block;
+    }
+  
+    .social h1 {
+      margin: 0px;
+    }
+  }
+  
+  @media only screen and (max-width: 950px) {
+    .footer .col {
+      width: 33%;
+    }
+  
+    .footer .col h1 {
+      font-size: 14px;
+    }
+  
+    .footer .col ul li {
+      font-size: 13px;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .footer .col {
+      width: 50%;
+    }
+  
+    .footer .col h1 {
+      font-size: 14px;
+    }
+  
+    .footer .col ul li {
+      font-size: 13px;
+    }
+  }
+  
+  @media only screen and (max-width: 340px) {
+    .footer .col {
+      width: 100%;
+    }
+  }

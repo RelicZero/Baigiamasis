@@ -1,0 +1,144 @@
+{
+    "appnews": {
+      "appid": 2073850,
+      "newsitems": [
+        {
+          "gid": "5762994032386511825",
+          "title": "Update 2.5.0",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5762994032386511825",
+          "is_external_url": true,
+          "author": "Embark | Oscar",
+          "contents": "Update 2.5.0 Welcome to Update 2.5.0! Today, we’re bringing you an update with some balance changes and dev comments on future changes to both the Stun Gun and the Cloaking Device! The second Community Challenge has come to an end. Congratulations on reaching the goal! We were never worried (maybe a...",
+          "feedlabel": "Community Announcements",
+          "date": 1713342804,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 2073850
+        },
+        {
+          "gid": "5762993398268724213",
+          "title": "Update 2.4.0",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5762993398268724213",
+          "is_external_url": true,
+          "author": "Embark | Oscar",
+          "contents": "Update 2.4.0 New Community Event! It’s time again to work together as a community for a special prize! This time, you’ll be touring the globe on the Power Shift Platform! Not just once, but 10 times around the Earth! Push and pull that platform far enough and everyone will win a pink Historical Hi-F...",
+          "feedlabel": "Community Announcements",
+          "date": 1712741845,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 2073850
+        },
+        {
+          "gid": "5756237364307441440",
+          "title": "Update 2.3.0",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5756237364307441440",
+          "is_external_url": true,
+          "author": "Embark | Oscar",
+          "contents": "UPDATE 2.3.0 Welcome to Update 2.3.0! We’re excited to announce our very first Discord Quest! You can earn the Skill Issue Set by streaming your gameplay to at least one friend on Discord for 15 minutes. It’s only available on the PC version of Discord, and will work even in a private DM! You can ev...",
+          "feedlabel": "Community Announcements",
+          "date": 1712220124,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 2073850
+        },
+        {
+          "gid": "5749481331432848729",
+          "title": "Update 2.2.0",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5749481331432848729",
+          "is_external_url": true,
+          "author": "Embark | Oscar",
+          "contents": "Update 2.2.0 Easter is here and it’s time to color some eggs and play BUNNY BASH! During this event, you’ll turn in contracts to earn prizes while duking it out in this special version of POWER SHIFT. The SYS$HORIZON map has been visited by the Easter Bunny, who has left plenty of decorations behind...",
+          "feedlabel": "Community Announcements",
+          "date": 1711534155,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 2073850
+        },
+        {
+          "gid": "5686430301714015739",
+          "title": "Update 2.1.0",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686430301714015739",
+          "is_external_url": true,
+          "author": "Embark | Oscar",
+          "contents": "Update 2.1.0 Welcome to the first update of Season 2! This update brings a new development to private matches! In the first of many improvements, we have added map selection to the feature so you can play in the arena of your choice. We’re excited to see how many of you love Power Shift! Very soon, ...",
+          "feedlabel": "Community Announcements",
+          "date": 1710933145,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 2073850
+        },
+        {
+          "gid": "7309977427434312715",
+          "title": "Update 2.0.0",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/7309977427434312715",
+          "is_external_url": true,
+          "author": "Embark | Oscar",
+          "contents": "Welcome to a whole new season of the game, contestants! Much has changed in and out of the arena, and you can expect lots more as the Season progresses. Please find all these new things and changes that’s coming in Season 2 RIGHT HERE! NEW ABILITIES & EQUIPMENT NEW MAP Added the standard issue of th...",
+          "feedlabel": "Community Announcements",
+          "date": 1710409167,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 2073850
+        },
+        {
+          "gid": "7309977427434312431",
+          "title": "Welcome to Season 2!",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/7309977427434312431",
+          "is_external_url": true,
+          "author": "Embark | Oscar",
+          "contents": "CNS PROUDLY PRESENTS…THE FINALS | SEASON 2 Welcome to a whole new season of the game, contestants! Much has changed in and out of the arena, and you can expect lots more as the Season progresses. You may encounter some strange things this season now that CNS — a rogue hacking collective — has infilt...",
+          "feedlabel": "Community Announcements",
+          "date": 1710409160,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 2073850
+        },
+        {
+          "gid": "5679673637667177594",
+          "title": "THE FINALS® Season 2 is live now",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5679673637667177594",
+          "is_external_url": true,
+          "author": "rafael.campos",
+          "contents": "Season 2 of THE FINALS launches on March 14, and strange things are happening in the arena. The game show has been compromised by the rogue hacking collective CNS, and showrunners are scrambling to decipher their cryptic messages — but one thing is clear: the show must go on! Watch THE FINALS Season...",
+          "feedlabel": "Community Announcements",
+          "date": 1710173095,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 2073850,
+          "tags": [
+            "workshop"
+          ]
+        },
+        {
+          "gid": "5679673637648391760",
+          "title": "Update 1.11.0",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5679673637648391760",
+          "is_external_url": true,
+          "author": "Embark | Oscar",
+          "contents": "Update 1.11.0 Welcome to the last update of Season 1! It’s been a wild journey with all of you and we are looking forward to the next adventure: SEASON 2! This week, we’ve had a blast playing in Old West Monaco with all of you! So, we’ve decided to extend the Smoking Guns event another week. To cele...",
+          "feedlabel": "Community Announcements",
+          "date": 1709727829,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 2073850
+        },
+        {
+          "gid": "5688680204369742749",
+          "title": "Welcome to the Smoking Guns event!",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5688680204369742749",
+          "is_external_url": true,
+          "author": "rafael.campos",
+          "contents": "Mosey into Old West Monaco with a limited loadout and duke it out like the gunslingers and outlaws of the old silver screen! Is Monaco an Arena large enough for all of you? Only one way to find out. We’re bringing back a fan favorite from the early days (of Beta): Single Round Tournament! In this ga...",
+          "feedlabel": "Community Announcements",
+          "date": 1709202926,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 2073850,
+          "tags": [
+            "workshop"
+          ]
+        }
+      ],
+      "count": 36
+    }
+  }
