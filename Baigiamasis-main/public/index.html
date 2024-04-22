@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+  <script>
+    const steamNewsImageHostURL = "https://clan.akamai.steamstatic.com/images/";
+    const steamNewsImageHostFLAG = "{STEAM_CLAN_IMAGE}";
+    const elementImagePrefix = "_img";
+
+    const dateNow = new Date().getTime() / 1000; //change unix milliseconds to sekonds
+
+    function getSingleCard(jsonId, elementId) {
+      fetch(`/jsons/${jsonId}.json`)
+      .then(response => response.json())
+      .then(jsonResponse =>  
+      {                
+        card = jsonResponse.appnews.newsitems[0];
+        unixTimestamp = card.date; //Takes the cards data about the time
+        author = card.author;
+        document.getElementById(elementId).innerHTML = ` 
+            <div>                
+                <h3>${card.title}</h3>
+                <p><strong>Posted ago: </strong>${GetDaysSinceCardDate(unixTimestamp)} days ago</p>                      
+                <p><strong>Author: </strong>${author}</p>
+            </div>
+          `
+        ReplaceWithSteamNewsImage(card.banner, elementId + elementImagePrefix)
+      })    
+    }
+
+    function ReplaceWithSteamNewsImage(url, elementId){
+      document.getElementById(elementId).src = `${GetSteamImageURL(url)}`;    
+    }
+
+    function GetSteamImageURL(url){
+      let result = url;
+
+      url = url.replace(steamNewsImageHostFLAG, steamNewsImageHostURL);
+      console.log(url)
+      return url;
+    }
+
+    function ConvertSecondsToDays(seconds){
+      return Math.round(seconds / 60 / 60 / 24);
+    }
+
+    function GetDaysSinceCardDate(timestamp){
+      unixTimeSinceDate = dateNow - unixTimestamp; //Count how many seconds pased from being posted
+      return ConvertSecondsToDays(unixTimeSinceDate);
+    }
+  </script>
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="GitLab Pages">
+    <title>Steam TTracker</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width">
+  </head>
+  <body>
+    <ul>
+      <div class="container">
+        <input type="checkbox" id="toggle" checked />
+        <label class="button" for="toggle">
+          <nav class="nav">
+            <ul>
+              <li><a href="..//public/Bnews.html">&nbsp;&nbsp;&nbsp;&nbsp;News<i class="ri-message-2-line"></i></a></li>
+            </ul>
+          </nav>
+        </label>
+      </div>
+    </ul>
+    <br>
+    <div>
+      <h1 class="hello">Steam news for game</h1>
+      
+      
+    </div>
+
+    <div class="C4">
+      <div class="article-card">
+        <div class="content" id="myDiv">
+          <!--Date-->
+          <p class="date">        
+          </p>
+         <!--title-->
+          <p class="title">
+
+          </p>
+        </div>
+        <img src="..//public/images/steam-newshub-teaser_6123781.jpg" alt="article-cover">
+      </div>
+      <br>
+      <div class="article-card">
+        <div class="content" id="ApexNews">
+          <!--Date-->
+          <p class="date">
+
+          </p>
+         <!--title-->
+          <p class="title">
+
+          </p>
+        </div>    
+        <img id="ApexNews_img" src="" alt="article-cover">
+        <script>
+          getSingleCard("Apex", "ApexNews");
+        </script>
+      </div>
+      <br>
+      <div class="article-card">
+        <div class="content">
+          <!--Date-->
+          <p class="date">
+
+          </p>
+         <!--title-->
+          <p class="title">
+
+          </p>
+        </div>
+        <img src="..//public/images/steam-newshub-teaser_6123781.jpg" alt="article-cover">
+      </div>
+    </div>
+
+
+    <div class="B4">
+      <div class="article-card">
+        <div class="content">
+          <!--Date-->
+          <p class="date">
+
+          </p>
+         <!--title-->
+          <p class="title">
+
+          </p>
+        </div>
+        <img src="..//public/images/steam-newshub-teaser_6123781.jpg" alt="article-cover">
+      </div>
+      <br>
+      <div class="article-card">
+        <div class="content">
+          <!--Date-->
+          <p class="date">
+
+          </p>
+         <!--title-->
+          <p class="title">
+
+          </p>
+        </div>
+        <img src="..//public/images/steam-newshub-teaser_6123781.jpg" alt="article-cover">
+      </div>
+      <br>
+      <div class="article-card">
+        <div class="content">
+          <!--Date-->
+          <p class="date">
+
+          </p>
+         <!--title-->
+          <p class="title">
+
+          </p>
+        </div>
+        <img src="..//public/images/steam-newshub-teaser_6123781.jpg" alt="article-cover">
+      </div>
+    </div>
+
+
+
+
+      <div class="footer">
+        <div class="contain">
+        <div class="col">
+        </div>
+      <div class="clearfix"></div>
+      </div>
+      </div>
+  </body>
+
+  <script>     
+
+    //select the button and the div
+    const apexButton = document.getElementById('apexButton');
+    const CS2Button = document.getElementById('CS2Button');
+    //const divTemp = document.getElementById('myDiv');
+
+    // define the function to change the HTML content
+    function changeContent() {
+    }
+
+    // add event listener to the button
+    // apexButton.addEventListener('click', getSingleCard("Apex", ));
+    // CS2Button.addEventListener('click', getSingleCard("CS2"));
+  </script>
+ 
+</html>

@@ -1,0 +1,155 @@
+{
+    "appnews": {
+      "appid": 1281930,
+      "newsitems": [
+        {
+          "gid": "5749481331449569494",
+          "title": "April 2024 Stable Update",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5749481331449569494",
+          "is_external_url": true,
+          "author": "Solxan",
+          "contents": "It is time for the April Fools 2024 Stable Update. The tModLoader team and our amazing community of contributors continues to improve tModLoader. This month we've fixed several issues, the most impactful being the issue with corrupted config.json files preventing the game from loading for some users...",
+          "feedlabel": "Community Announcements",
+          "date": 1711930479,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 1281930,
+          "tags": [
+            "mod_reviewed",
+            "ModAct_1415727794_1711932666_0",
+            "mod_require_rereview"
+          ]
+        },
+        {
+          "gid": "5688680204371936859",
+          "title": "March 2024 Stable Update",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5688680204371936859",
+          "is_external_url": true,
+          "author": "Solxan",
+          "contents": "It is time for the March 2024 Stable Update! The tModLoader team and our amazing community of contributors continues to improve tModLoader. This month's release mainly contains bug fixes. This month we've continued our work to harden multiplayer by updating the server host scripts, made several impr...",
+          "feedlabel": "Community Announcements",
+          "date": 1709254899,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 1281930,
+          "tags": [
+            "mod_reviewed",
+            "ModAct_1293509461_1709255176_0",
+            "mod_require_rereview"
+          ]
+        },
+        {
+          "gid": "5582843074941542334",
+          "title": "February 2024 Stable Update",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5582843074941542334",
+          "is_external_url": true,
+          "author": "Solxan",
+          "contents": "It is time for the February 2024 Stable Update! The tModLoader team and our amazing community of contributors continues to improve tModLoader. This month's release mainly contains bug fixes. This month we've improved support for our Apple Silicon friends, improved GoG compatibility & setup on Unix, ...",
+          "feedlabel": "Community Announcements",
+          "date": 1706811128,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 1281930
+        },
+        {
+          "gid": "5410576585175534119",
+          "title": "January 2024 Stable Update",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5410576585175534119",
+          "is_external_url": true,
+          "author": "Solxan",
+          "contents": "Happy New Year! 2024 is now upon us and a lot to look forward to. On January 2nd our monthly update release of tModLoader will go live. This month's release contains targeted improvements for modding such as a new Dash ID definitions in code and injection points for saving and loading data. We are e...",
+          "feedlabel": "Community Announcements",
+          "date": 1704244723,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 1281930
+        },
+        {
+          "gid": "5395937983665464568",
+          "title": "December 2023 Stable Update",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5395937983665464568",
+          "is_external_url": true,
+          "author": "javidpack",
+          "contents": "It is time for the December 2023 Stable Update! The tModLoader team and our amazing community of contributors has been hard at work improving tModLoader. This month's release mainly contains bug fixes and new capabilities for modders. In particular the Mod Browser is more reliable, in-game pop-up no...",
+          "feedlabel": "Community Announcements",
+          "date": 1701454211,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 1281930
+        },
+        {
+          "gid": "5288974951204243268",
+          "title": "November 2023 Stable Update",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5288974951204243268",
+          "is_external_url": true,
+          "author": "Solxan",
+          "contents": "It is time for the November 2023 Stable Update! It has been another exciting month. This month's release contains fixes for various gameplay inconsistencies with Terraria. Dye visuals, boss item drops, bomb damage, tool speed, and echo coating have all received fixes to match Terraria behavior. We a...",
+          "feedlabel": "Community Announcements",
+          "date": 1698876711,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 1281930
+        },
+        {
+          "gid": "5218041989037547000",
+          "title": "Upcoming Regular Update Announcement (11/2023)",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989037547000",
+          "is_external_url": true,
+          "author": "Solxan",
+          "contents": "An update has been scheduled for the first week of 11/2023 The update contains several changes to the API for modders. At time of writing, the community spot check of a selection of mods suggests no mod breakage in this update. For more information on any of these changes, please consult Our Discord...",
+          "feedlabel": "Community Announcements",
+          "date": 1697593016,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 1281930,
+          "tags": [
+            "hide_store",
+            "workshop"
+          ]
+        },
+        {
+          "gid": "5220292521175524728",
+          "title": "October 2023 Hot Fixes",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5220292521175524728",
+          "is_external_url": true,
+          "author": "javidpack",
+          "contents": "The October 2023 release of tModLoader, v2023.08, has been updated with the following bug fixes as of Hot Fix version v2023.08.3.3: Fixed issues with automatically unloading Monomod edits - Chicken-Bones Fixed Issues with servers loading new worlds - JavidPack Fixed issues with Auto Select functiona...",
+          "feedlabel": "Community Announcements",
+          "date": 1696389938,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 1281930,
+          "tags": [
+            "patchnotes"
+          ]
+        },
+        {
+          "gid": "5220291886496177248",
+          "title": "October 2023 Stable Update",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5220291886496177248",
+          "is_external_url": true,
+          "author": "javidpack",
+          "contents": "It is time for the October 2023 Stable Update! Over the last month the tModLoader team has been busy fixing bugs and incorporating new functionality into tModLoader. This month's update includes many bug fixes, as usual, but this month's release has a particularly large amount of new functionality f...",
+          "feedlabel": "Community Announcements",
+          "date": 1696122849,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 1281930
+        },
+        {
+          "gid": "5141476355659416165",
+          "title": "September 2023 Stable Update",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5141476355659416165",
+          "is_external_url": true,
+          "author": "javidpack",
+          "contents": "We hope everyone has been having a fun time with 1.4.4 tModLoader! We are happy to see that a large majority of popular mods have already been updated to work with the latest tModLoader. In fact, over 85% of all mods by subscriber count have made it to 1.4.4 tModLoader already. Over the last month t...",
+          "feedlabel": "Community Announcements",
+          "date": 1693530426,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 1281930
+        }
+      ],
+      "count": 35
+    }
+  }

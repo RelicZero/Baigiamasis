@@ -1,0 +1,160 @@
+{
+    "appnews": {
+      "appid": 730,
+      "newsitems": [
+        {
+          "gid": "5762994032385146001",
+          "title": "Release Notes for 4/16/2024",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5762994032385146001",
+          "is_external_url": true,
+          "author": "Vitaliy",
+          "contents": "Fixed a bug where bomb can sometimes disappear from the radar Allow scraping or removing stickers by selecting the sticker icons under the weapon Allow deleting empty storage units that have an assigned label Fixed Workshop tools from crashing when compiling maps that contain instances ",
+          "feedlabel": "Community Announcements",
+          "date": 1713310428,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 730,
+          "tags": [
+            "patchnotes"
+          ]
+        },
+        {
+          "gid": "5756237364302520435",
+          "title": "Release Notes for 4/2/2024",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5756237364302520435",
+          "is_external_url": true,
+          "author": "Piggles ULTRAPRO",
+          "contents": "Congratulations to Natus Vincere for winning the PGL Copenhagen Major! The Copenhagen 2024 Champions Autograph Capsule is now available for purchase in the Copenhagen 2024 Major Hub Fixed several cases of sticky collisions when jumping against surfaces Fixed another threading bug that could lead to ...",
+          "feedlabel": "Community Announcements",
+          "date": 1712103496,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 730,
+          "tags": [
+            "patchnotes"
+          ]
+        },
+        {
+          "gid": "5756237364302520223",
+          "title": "Copenhagen Major Champions",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5756237364302520223",
+          "is_external_url": true,
+          "author": "Piggles ULTRAPRO",
+          "contents": "https://clan.akamai.steamstatic.com/images/3381077/75c3204fcb2874385f7c3e1dafeb00003b76502e.png Congratulations to Natus Vincere, the first CS2 Major Champions! Playing in front of a sold-out arena and with over 1.8 million viewers watching around the world, NAVI and FaZe met in the Grand Final of o...",
+          "feedlabel": "Community Announcements",
+          "date": 1712103491,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 730
+        },
+        {
+          "gid": "5749481331445799804",
+          "title": "Championship Sunday in Copenhagen",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5749481331445799804",
+          "is_external_url": true,
+          "author": "COMPLEX",
+          "contents": "https://clan.cloudflare.steamstatic.com/images/3381077/d127fb6e4685f88d2921a5735ccba009dc2ff68d.png The Semifinals of the Copenhagen Major featured four titans of Counter-Strike; FaZe Clan versus Team Vitality and Natus Vincere versus G2 Esports. And the Semifinalists delivered! Both matchups requir...",
+          "feedlabel": "Community Announcements",
+          "date": 1711841099,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 730
+        },
+        {
+          "gid": "5686430301736951237",
+          "title": "Copenhagen Playoffs and Pick’Ems",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686430301736951237",
+          "is_external_url": true,
+          "author": "Coach",
+          "contents": "https://clan.cloudflare.steamstatic.com/images/3381077/b80e4de648288b7a193fb2218f6c6c6b348fa18a.png The Elimination Stage of the PGL Copenhagen Major has concluded, leaving eight teams to compete for Counter-Strike 2’s first Major Championship. Congratulations to Team Spirit and MOUZ who advanced un...",
+          "feedlabel": "Community Announcements",
+          "date": 1711476723,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 730,
+          "tags": [
+            "mod_reviewed",
+            "ModAct_487997664_1711478629_0",
+            "ModAct_487176015_1711565180_4",
+            "ModAct_1519738978_1711592209_4",
+            "mod_require_rereview"
+          ]
+        },
+        {
+          "gid": "5686430301716254696",
+          "title": "PGL Copenhagen 2024: Stickers!",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686430301716254696",
+          "is_external_url": true,
+          "author": "Piggles ULTRAPRO",
+          "contents": "The opening stage of the PGL Copenhagen Major has come to a close and storylines are rapidly developing. New rosters are rising to the occasion. Seasoned teams are reaching peak form at the perfect time. Asia and the Americas have come roaring back to life. Who will reach the playoffs? Tune in to th...",
+          "feedlabel": "Community Announcements",
+          "date": 1710986200,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 730
+        },
+        {
+          "gid": "5686430301712294531",
+          "title": "Release Notes for 3/19/2024",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686430301712294531",
+          "is_external_url": true,
+          "author": "Piggles ULTRAPRO",
+          "contents": "Elimination Stage Pick'Em Challenge is now active with 13 qualified teams (three more teams will qualify tomorrow). Elimination Stage picks can be updated and saved all the way until the first Elimination Stage matches begin Added a reminder for players who purchased their Copenhagen 2024 Viewer Pas...",
+          "feedlabel": "Community Announcements",
+          "date": 1710892343,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 730,
+          "tags": [
+            "patchnotes"
+          ]
+        },
+        {
+          "gid": "7309977427433575553",
+          "title": "Release Notes for 3/13/2024",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/7309977427433575553",
+          "is_external_url": true,
+          "author": "Piggles ULTRAPRO",
+          "contents": "The Copenhagen Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more. Purchase a Copenhagen 2024 Viewer Pass to receive an upgradable Copenhagen 2024 Coin. With an active pass, you can upgrade your coin and earn extra souvenir packages by playing...",
+          "feedlabel": "Community Announcements",
+          "date": 1710391698,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 730,
+          "tags": [
+            "patchnotes"
+          ]
+        },
+        {
+          "gid": "7309977427433574998",
+          "title": "PGL Copenhagen 2024",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/7309977427433574998",
+          "is_external_url": true,
+          "author": "Piggles ULTRAPRO",
+          "contents": "In December, hundreds of teams from around the world began their long journey to the first Counter-Strike 2 Major. Fighting through open, closed, and regional qualifiers--now only 24 remain. Tune in to the PGL Copenhagen Major on March 17th and watch the best Counter-Strike teams in the world battle...",
+          "feedlabel": "Community Announcements",
+          "date": 1710391684,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 730
+        },
+        {
+          "gid": "5679673637656640515",
+          "title": "Release Note for 3/8/2024",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5679673637656640515",
+          "is_external_url": true,
+          "author": "bobb",
+          "contents": "Fixed a threading bug that could lead to a frame rate hitch, especially if all CPUs were busy. ",
+          "feedlabel": "Community Announcements",
+          "date": 1709923299,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 730,
+          "tags": [
+            "patchnotes"
+          ]
+        }
+      ],
+      "count": 1544
+    }
+  }
