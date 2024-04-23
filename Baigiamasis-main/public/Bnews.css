@@ -1,5 +1,5 @@
 body {
-  background-image: url("images/cogs-and-gear-wheel-mechanisms-hi-tech-digital-technology-and-engineering-abstract-technical-background-geometric-blue-gear-wheels-and-dots-gears-futuristic-mechanism-industrial-concept-vector.jpg");
+  background-image: url('././images/cogs-and-gear-wheel-mechanisms-hi-tech-digital-technology-and-engineering-abstract-technical-background-geometric-blue-gear-wheels-and-dots-gears-futuristic-mechanism-industrial-concept-vector.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -10,7 +10,7 @@ body {
   
   @media (max-width: 600px) {
     body {      
-    background: url('images/cogphon.jpg');
+    background: url('././images/cogphon.jpg');
     background-repeat: no-repeat;
     background-color: #000;
     background-size: auto;
